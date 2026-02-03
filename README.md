@@ -1,256 +1,297 @@
-<!-- Animated Header -->
 <div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Sanjay%20Varghese&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20|%20Creator%20|%20Innovator&descAlignY=55&descSize=22)
+
+<!-- Animated 3D Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0d1117&height=300&section=header&text=SANJAY%20VARGHESE&fontSize=60&fontColor=58a6ff&animation=fadeIn&stroke=58a6ff&strokeWidth=3&desc=⚡%20Developer%20|%20Creator%20|%20Innovator%20⚡&descSize=20&descAlignY=65"/>
+
+<!-- Glitch Effect Name -->
+<a href="https://github.com/sanjayvarghese1">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E_%20INITIALIZING%20SYSTEM...;%3E_%20ACCESS%20GRANTED%20%E2%9C%93" />
+</a>
+
+<!-- Visitor Counter Matrix Style -->
+<img src="https://profile-counter.glitch.me/sanjayvarghese1/count.svg" />
 
 </div>
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/sanjayvarghese1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time;%F0%9F%92%BB+Full+Stack+Developer+%7C+IoT+Enthusiast;%F0%9F%8C%90+Turning+Ideas+into+Reality" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Social badges -->
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/sanjayvarghese1?logo=GitHub&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/sanjayvarghese1)
-  [![Profile Views](https://komarev.com/ghpvc/?username=sanjayvarghese1&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/sanjayvarghese1)
-  [![GitHub Stars](https://img.shields.io/github/stars/sanjayvarghese1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/sanjayvarghese1)
-
-</div>
-
-<br/>
-
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<!-- About Me Section -->
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
-
-```yaml
-name: Sanjay Varghese
-located_in: India 🇮🇳
-current_focus: Full Stack Development & IoT
-
-fields_of_interest:
-  - "Web Development"
-  - "IoT & Embedded Systems"
-  - "Space Technology"
-  - "Open Source"
-
-currently_working_on:
-  - "🌍 NASA-related Projects"
-  - "🤖 ESP32 Robotics"
-  - "📱 Interactive Web Apps"
-  - "🗺️ Mapathon Story Platform"
-
-2026_goals:
-  - "Contribute to Open Source"
-  - "Build Impactful Projects"
-  - "Learn AI/ML"
+<!-- Terminal Window -->
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ███████╗ █████╗ ███╗   ██╗     ██╗ █████╗ ██╗   ██╗                       ║
+║   ██╔════╝██╔══██╗████╗  ██║     ██║██╔══██╗╚██╗ ██╔╝                       ║
+║   ███████╗███████║██╔██╗ ██║     ██║███████║ ╚████╔╝                        ║
+║   ╚════██║██╔══██║██║╚██╗██║██   ██║██╔══██║  ╚██╔╝                         ║
+║   ███████║██║  ██║██║ ╚████║╚█████╔╝██║  ██║   ██║                          ║
+║   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝                          ║
+║                                                                              ║
+║   [ SYSTEM STATUS: ONLINE ]              [ THREAT LEVEL: CREATIVE ]         ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<br clear="both">
+<div align="center">
 
+<!-- Animated Social Links -->
+<a href="https://github.com/sanjayvarghese1"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=161b22"/></a>
+<a href="https://linkedin.com/in/sanjayvarghese"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117&color=161b22"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117&color=161b22"/></a>
+<a href="https://twitter.com/sanjayvarghese"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117&color=161b22"/></a>
+
+</div>
+
+<br>
+
+<!-- System Info Section -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr border="none">
+<td width="50%" align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjayvarghese1&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117&include_all_commits=true&count_private=true&ring_color=58a6ff" />
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayvarghese1&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=58a6ff&sideNums=8b949e&dates=8b949e"/>
+
+</td>
+<td width="50%" align="center">
+
+```js
+// sanjay.config.js
+
+const Developer = {
+    identity: {
+        name: "Sanjay Varghese",
+        title: "Full Stack Developer",
+        location: "India 🇮🇳",
+        pronouns: "he/him"
+    },
+    
+    code: {
+        languages: ["JavaScript", "Python", 
+                    "C++", "HTML", "CSS"],
+        frameworks: ["React", "Node.js", 
+                     "TailwindCSS"],
+        hardware: ["ESP32", "Arduino", 
+                   "Raspberry Pi"],
+        tools: ["Git", "VS Code", "Figma"]
+    },
+    
+    currentFocus: [
+        "🚀 NASA Space Projects",
+        "🤖 ESP32 Robotics",
+        "🗺️ Mapathon Story",
+        "🌐 Web Innovation"
+    ],
+    
+    funFact: "I debug with console.log 
+              and I'm not ashamed 😎"
+};
+
+module.exports = Developer;
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
+<br>
 
-<!-- Tech Stack Section -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack & Tools
-
+<!-- Tech Arsenal Section -->
 <div align="center">
 
-### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## ⚡ TECH ARSENAL
 
-### 🧰 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🔧 Hardware & IoT
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,react,nodejs,tailwind,vscode,git,github,arduino,raspberrypi,figma,linux&perline=8&theme=dark" />
 
 </div>
 
-<br/>
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<!-- GitHub Stats Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
-
+<!-- Projects Section -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanjayvarghese1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff" alt="Sanjay's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayvarghese1&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="Sanjay's GitHub Streak" />
+
+## 🎯 MISSION CRITICAL PROJECTS
+
 </div>
 
-<br/>
-
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayvarghese1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff" alt="Top Languages" />
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🚀 NASA Final</h3>
+<p align="center">
+<a href="https://github.com/sanjayvarghese1/NASAfinal" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayvarghese1&repo=NASAfinal&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+</a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Space_Tech-000000?style=flat-square&logo=nasa&logoColor=white"/>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🤖 ESP-32 Sumo Bot</h3>
+<p align="center">
+<a href="https://github.com/sanjayvarghese1/esp-32" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayvarghese1&repo=esp-32&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+</a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🗺️ Mapathon Story</h3>
+<p align="center">
+<a href="https://github.com/sanjayvarghese1/mapathon-story" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayvarghese1&repo=mapathon-story&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+</a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🎨 ADDON</h3>
+<p align="center">
+<a href="https://github.com/sanjayvarghese1/ADDON" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayvarghese1&repo=ADDON&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+</a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Design-FF4785?style=flat-square&logo=storybook&logoColor=white"/>
+</p>
+</td>
+</tr>
+</table>
 </div>
 
-<br/>
+<br>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayvarghese1&theme=react-dark&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&area_color=6AD3F7" alt="Contribution Graph" />
+
+## 📊 SYSTEM ANALYTICS
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayvarghese1&custom_title=Contribution%20Matrix&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" />
+
 </div>
 
-<br/>
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<!-- Featured Projects Section -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Featured Projects
-
+<!-- Metrics Grid -->
 <div align="center">
-  
-  <a href="https://github.com/sanjayvarghese1/NASAfinal">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayvarghese1&repo=NASAfinal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/sanjayvarghese1/esp-32">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayvarghese1&repo=esp-32&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff" />
-  </a>
-  
-</div>
 
-<div align="center">
-  
-  <a href="https://github.com/sanjayvarghese1/mapathon-story">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayvarghese1&repo=mapathon-story&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/sanjayvarghese1/ADDON">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayvarghese1&repo=ADDON&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff" />
-  </a>
-  
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<!-- GitHub Trophies -->
-## 🏆 GitHub Profile Trophy
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjayvarghese1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="GitHub Trophy" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<!-- Connect Section -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
-
-<div align="center">
-  
-  <a href="https://github.com/sanjayvarghese1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/sanjayvarghese">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/sanjayvarghese">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://instagram.com/sanjayvarghese">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayvarghese1&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=sanjayvarghese1&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
-<br/>
-
-<!-- Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<br/>
+<br>
 
 <!-- Snake Animation -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+
+## 🐍 WATCH THE SNAKE DEVOUR MY CONTRIBUTIONS
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 </div>
 
-<br/>
+<br>
 
-<!-- Support -->
+<!-- Random Dev Quote -->
 <div align="center">
-  
-  ### 💖 Support My Work
-  
-  <a href="https://www.buymeacoffee.com/sanjayvarghese">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  
+
+## 💭 RANDOM DEV WISDOM
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true"/>
+
 </div>
 
-<br/>
+<br>
+
+<!-- Code Cycle Animation -->
+<div align="center">
+
+## 🔄 THE CODE CYCLE
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" alt="Broken!"/>
+&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" width="8%" alt="Thinking"/>
+&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="8%" alt="Coding"/>
+&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="8%" alt="Working!"/>
+&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="8%" alt="But how?"/>
+
+<br>
+<sub><i>Bug → Think → Code → Works → "Wait, why does it work?"</i></sub>
+
+</div>
+
+<br>
+
+<!-- Connect Section -->
+<div align="center">
+
+## 🔗 LET'S CONNECT & BUILD THE FUTURE
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║   "The best way to predict the future is to invent it." - Alan Kay   ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+<a href="https://github.com/sanjayvarghese1">
+<img src="https://img.shields.io/badge/Follow%20Me-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+<a href="https://www.buymeacoffee.com/sanjayvarghese">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+</a>
+
+</div>
+
+<br>
 
 <!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=50" />
+
+<img src="https://komarev.com/ghpvc/?username=sanjayvarghese1&style=for-the-badge&color=161b22&labelColor=0d1117&label=PROFILE+SCANNED"/>
+
+<br><br>
+
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Made with 💙 & lots of ☕ by Sanjay Varghese © 2026
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
+
 </div>
 
 <!-- 
-  💡 Pro tip: Don't forget to update:
-  - Your email in the Gmail badge
-  - Your LinkedIn profile URL
-  - Your Twitter/X handle
-  - Your Instagram handle
-  - Your Buy Me a Coffee link (or remove if not applicable)
-  
-  🎨 This README features:
-  - Animated header with gradient wave
-  - Typing SVG animation
-  - Modern glassmorphism style badges
-  - Dynamic GitHub stats & streak
-  - Activity graph
-  - Featured project cards
-  - GitHub trophies
-  - Snake eating contribution animation
-  - Social media links
-  - Inspirational dev quotes
-  - Animated footer
-  
-  Made with ❤️ by Sanjay Varghese
+╔══════════════════════════════════════════════════════════════════╗
+║  🔧 UPDATE THESE BEFORE PUSHING:                                 ║
+║  • LinkedIn URL                                                   ║
+║  • Email address                                                  ║
+║  • Twitter/X handle                                               ║
+║  • Buy Me a Coffee link (optional)                               ║
+╚══════════════════════════════════════════════════════════════════╝
 -->
